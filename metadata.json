@@ -1,0 +1,7 @@
+{
+  "name": "Flux Wallet 000",
+  "description": "Smart Spending & Loyalty Wallet. Visualize consumption as energy. Scan, track, and earn brand assets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
